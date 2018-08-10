@@ -1,1 +1,1 @@
-imr-framework
+This file contains all the codes for constructing ImRiD database. It includes code to reconstruct raw data of .dat file from MRI MP-RAGE sequence; code to slice from arbitrary angles; and visualization.
