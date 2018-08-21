@@ -10,8 +10,8 @@ Waiting for user node activation...
 
 Working parameters:
 T1w: te=0.008s tr=0.15s flip=56.7 acq_time=57.6s
-PDw: te=0.008s tr=0.256s flip=11.7 acq_time=98.1s
-T2*w: te=0.05s tr=0.278s flip=15 acq_time=107s
+PDw: te=0.008s tr=0.3s flip=13.3 acq_time=115s
+T2*w: te=0.05s tr=0.3s flip=13.3 acq_time=115s
 Reading database from disk...Adding patient to database...
 Saving database to disk...
 
@@ -23,14 +23,14 @@ Waiting an estimated 87 seconds for raw data from scan 1 ...
 Password:Software version: VD
 
 Scan 1/2, read all mdhs:
-82 % read in 0.46 seconds; estimated time left 0.10 seconds
-100 % read in 0.5 seconds; estimated time left 0 seconds
+82 % read in 1.12 seconds; estimated time left 0.24 seconds
+100 % read in 1 seconds; estimated time left 0 seconds
 Parse mdhs...
-Done in 0.006 seconds
+Done in 0.008 seconds
 
 Scan 2/2, read all mdhs:
-99 % read in 0.09 seconds; estimated time left 0.00 seconds
-100 % read in 0.09 seconds; estimated time left 0 seconds
+99 % read in 0.22 seconds; estimated time left 0.00 seconds
+100 % read in 0.2 seconds; estimated time left 0 seconds
 Parse mdhs...
 Done in 0.004 seconds
 /data/AMRI/imr_framework/do_not_publish/amri/dat2py/twix_map_objectVE.py:568: FutureWarning: elementwise comparison failed; returning scalar instead, but in the future will perform elementwise comparison
@@ -40,27 +40,27 @@ Uploading scan1_slice2.tiff...
 Uploading scan1_slice3.tiff...
 Updated sitrep contents....
 Working parameters:
-PDw: te=0.008s tr=0.167s flip=8.33 acq_time=64s
-T2*w: te=0.05s tr=0.233s flip=10 acq_time=89.6s
+PDw: te=0.008s tr=0.278s flip=11.7 acq_time=107s
+T2*w: te=0.05s tr=0.278s flip=13.3 acq_time=107s
 
 
 Scan 2/3...
 Writing seq file to disk...
 Updating scanner job...
-Waiting an estimated 94 seconds for raw data from scan 2 ...
+Waiting an estimated 136 seconds for raw data from scan 2 ...
 Software version: VD
 
 Scan 1/2, read all mdhs:
-82 % read in 0.46 seconds; estimated time left 0.10 seconds
-100 % read in 0.5 seconds; estimated time left 0 seconds
+82 % read in 1.11 seconds; estimated time left 0.24 seconds
+100 % read in 1 seconds; estimated time left 0 seconds
 Parse mdhs...
-Done in 0.007 seconds
+Done in 0.008 seconds
 
 Scan 2/2, read all mdhs:
-99 % read in 0.09 seconds; estimated time left 0.00 seconds
-100 % read in 0.09 seconds; estimated time left 0 seconds
+99 % read in 0.23 seconds; estimated time left 0.00 seconds
+100 % read in 0.2 seconds; estimated time left 0 seconds
 Parse mdhs...
-Done in 0.005 seconds
+Done in 0.004 seconds
 Uploading scan2_slice1.tiff...
 Uploading scan2_slice2.tiff...
 Uploading scan2_slice3.tiff...
@@ -68,24 +68,24 @@ Updated sitrep contents....
 
 
 Working parameters:
-T2*w: te=0.05s tr=0.211s flip=11.7 acq_time=81.1s
+T2*w: te=0.05s tr=0.144s flip=10 acq_time=55.5s
 
 
 Scan 3/3...
 Writing seq file to disk...
 Updating scanner job...
-Waiting an estimated 111 seconds for raw data from scan 3 ...
+Waiting an estimated 85 seconds for raw data from scan 3 ...
 Software version: VD
 
 Scan 1/2, read all mdhs:
-82 % read in 0.46 seconds; estimated time left 0.10 seconds
-100 % read in 0.5 seconds; estimated time left 0 seconds
+82 % read in 1.11 seconds; estimated time left 0.24 seconds
+100 % read in 1 seconds; estimated time left 0 seconds
 Parse mdhs...
-Done in 0.008 seconds
+Done in 0.007 seconds
 
 Scan 2/2, read all mdhs:
-99 % read in 0.09 seconds; estimated time left 0.00 seconds
-100 % read in 0.09 seconds; estimated time left 0 seconds
+99 % read in 0.22 seconds; estimated time left 0.00 seconds
+100 % read in 0.2 seconds; estimated time left 0 seconds
 Parse mdhs...
 Done in 0.005 seconds
 Uploading scan3_slice1.tiff...
