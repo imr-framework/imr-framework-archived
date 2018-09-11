@@ -1,0 +1,23 @@
+sitrepfile_id=1LJRCM2JUOcLVWzGnU0khzQSiWE08j8MM
+key_request
+crypt_key=Gs083Q76F_dhXkyjdj_JMjnYhEMdFRA6_44gf4upIgs=
+patient_info=gAAAAABbezxOwizmg43wZ2j3iiiwFMxisGo2UACKrSl3RvS3Nkkw-7QdD7yxwnE5UNxxWfy85NFG_-vlLMBg52YtMghj42llA3e1M-xfTnv7Ft2IhxiQLrcFWkjZsYytsgMEzRfYbuaJ8Km73jco6yZBmjavU2uCAk0JXPhzyNdBbDfJ13NmAnk8KoOS69xLXvEabKfJrep_dL8kUY0WcPl2T7vKqb712pp1dBM0Dzb8bnVud9mtE3cWkkmsrzYvxsJp749DxBKHlOSZU_-3IhUozTuuS9paolL9lLIs9TdjBTZ0fJyaUKFdpV6wzb5OEahlYPCSg83VhMiaEVr8DUsrnq4Ju5pXseF8BYVmmzHHDROvbmmWr9zRBxEtYEQYbizthOs8bFx8m_MROonaVE6aSSX4ESHnfyuM-yk24iyNXXcVB4v61t0=
+time valid=True
+scan 1 wait time=87
+scan 1 num_slices=3
+scan 1 slice 1 available
+scan 1 slice 2 available
+scan 1 slice 3 available
+double nsa=False
+scan 2 wait time=94
+scan 2 num_slices=3
+scan 2 slice 1 available
+scan 2 slice 2 available
+scan 2 slice 3 available
+double nsa=False
+scan 3 wait time=111
+scan 3 num_slices=3
+scan 3 slice 1 available
+scan 3 slice 2 available
+scan 3 slice 3 available
+double nsa=False
