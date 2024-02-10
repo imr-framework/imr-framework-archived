@@ -1,0 +1,9 @@
+---
+title: mrf
+subtitle: Magnetic Resonance Fingerprinting
+layout: default
+modal-id: 3
+thumbnail: mrf.png
+alt: image-alt
+github: https://github.com/imr-framework/mrf
+---

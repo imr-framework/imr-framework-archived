@@ -1,0 +1,9 @@
+---
+title: pypulseq
+subtitle: Pulseq on Python
+layout: default
+modal-id: 4
+thumbnail: pypulseq.png
+alt: image-alt
+github: https://github.com/imr-framework/pypulseq
+---

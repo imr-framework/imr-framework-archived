@@ -1,0 +1,9 @@
+---
+title: epg
+subtitle: Extended Phase Graphs
+layout: default
+modal-id: 2
+thumbnail: epg.png
+alt: image-alt
+github: https://github.com/imr-framework/epg
+---

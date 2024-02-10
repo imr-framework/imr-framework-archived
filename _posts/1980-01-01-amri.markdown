@@ -1,0 +1,9 @@
+---
+title: amri
+subtitle: Autonomous Magnetic Resonance Imaging (AMRI)
+layout: default
+modal-id: 1
+thumbnail: amri.png
+alt: image-alt
+github: https://github.com/imr-framework/amri/
+---

@@ -1,0 +1,10 @@
+---
+title: SEASR
+subtitle: Single Echo Acquisition with a Short Readout
+layout: default
+modal-id: 8
+thumbnail: SEASR.jpg
+alt: image-alt
+github: https://github.com/imr-framework/SEASR
+---
+
