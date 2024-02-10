@@ -1,76 +1,74 @@
 url: https://imr-framework.github.io
-baseurl:
 
 # Site settings
 title: imr-framework
 email: imr.framework2018@gmail.com
 description: "imr-framework"
 
-
 # Team names, titles and social links
 people:
-- name: Sairam Geethanath
-  pic: 1
-  position: Principal Investigator
-  social:
-    - title: github
-      url: https://github.com/sairamgeethanath
+  - name: Sairam Geethanath
+    pic: 1
+    position: Principal Investigator
+    social:
+      - title: github
+        url: https://github.com/sairamgeethanath
 
-- name: Pavan Poojar
-  pic: 2
-  position: Recent alumni (PhD, Electrical and Electronics Engineering)
-  social:
-    - title: github
-      url: https://github.com/PavanPoojar
+  - name: Pavan Poojar
+    pic: 2
+    position: Recent alumni (PhD, Electrical and Electronics Engineering)
+    social:
+      - title: github
+        url: https://github.com/PavanPoojar
 
-- name: Enlin Qian
-  pic: 3
-  position: Coadvisor (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/qianenlin
+  - name: Enlin Qian
+    pic: 3
+    position: Coadvisor (PhD student, Biomedical Engineering)
+    social:
+      - title: github
+        url: https://github.com/qianenlin
 
-- name: Gehua Tong
-  pic: 4
-  position: Coadvisor (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/tonggehua
+  - name: Gehua Tong
+    pic: 4
+    position: Coadvisor (PhD student, Biomedical Engineering)
+    social:
+      - title: github
+        url: https://github.com/tonggehua
 
-- name: Keerthi Sravan Ravi
-  pic: 5
-  position: Coadvisor (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/sravan953
+  - name: Keerthi Sravan Ravi
+    pic: 5
+    position: Coadvisor (PhD student, Biomedical Engineering)
+    social:
+      - title: github
+        url: https://github.com/sravan953
 
-- name: Marina Jimeno Manso
-  pic: 6
-  position: Coadvisor (PhD student, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/Mmj94
+  - name: Marina Jimeno Manso
+    pic: 6
+    position: Coadvisor (PhD student, Biomedical Engineering)
+    social:
+      - title: github
+        url: https://github.com/Mmj94
 
-- name: Kunal Aggarwal
-  pic: 7
-  position: Recent Alumni (MSc student, Neuroengineering)
-  social:
-    - title: github
-      url: https://github.com/KunalTUM
+  - name: Kunal Aggarwal
+    pic: 7
+    position: Recent Alumni (MSc student, Neuroengineering)
+    social:
+      - title: github
+        url: https://github.com/KunalTUM
 
-- name: Shounak Nandi
-  pic: 8
-  position: Trainee (MSc student, Biomedical Engineering and Medical Physics)
-  social:
-    - title: github
-      url: https://github.com/Nandishounak
+  - name: Shounak Nandi
+    pic: 8
+    position: Trainee (MSc student, Biomedical Engineering and Medical Physics)
+    social:
+      - title: github
+        url: https://github.com/Nandishounak
 
-- name: Ivan Etoku Oiye
-  pic: 9
-  position: Trainee (BSc, Biomedical Engineering)
-  social:
-    - title: github
-      url: https://github.com/ivan-etoku
+  - name: Ivan Etoku Oiye
+    pic: 9
+    position: Trainee (BSc, Biomedical Engineering)
+    social:
+      - title: github
+        url: https://github.com/ivan-etoku
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
