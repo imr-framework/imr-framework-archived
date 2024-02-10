@@ -13,6 +13,9 @@ Ensure you have Ruby and RubyGems installed on your system. You can download and
 
 ## 2. Install Bundler
 Bundler is a RubyGem manager that will help you manage your gem dependencies for the project. You can install Bundler via RubyGems by running:
+```
+gem install bundler
+```
 
 
 ## 3. Set up your Jekyll site
