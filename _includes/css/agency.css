@@ -642,6 +642,10 @@ section h3.section-subheading {
     }
 }
 
+.team-min-height {
+    height: 40rem; /* Adjust the height value as needed */
+}
+
 .team-member {
     margin-bottom: 50px;
     text-align: center;
